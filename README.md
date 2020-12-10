@@ -173,7 +173,7 @@ Project Link: [https://github.com/Number0000/LibraryManagement_1.0.1](https://gi
 - [Dependency on running exec java](https://mvnrepository.com/artifact/org.codehaus.mojo/exec-maven-plugin/3.0.0)
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
-- [Original Template for ReadMe] (https://github.com/othneildrew/Best-README-Template)
+- [Original Template for ReadMe](https://github.com/othneildrew/Best-README-Template)
 - many many other that I complete used and forgot over the past couple years. Thank you, geeks
 
 <!-- MARKDOWN LINKS & IMAGES -->
