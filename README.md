@@ -56,6 +56,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#prerequisites">Pre-prerequisites</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -97,11 +98,11 @@ This section should list any major frameworks that you built your project using.
 This is an example of how you may want to do to on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Preprerequisites
+### Pre-prerequisites
 
-Here is an example of simple Maven project build on a website as a starter. Please do not jump ahead as you may confused yourself. :fire:
+Here is an example of simple Maven project build on a website as a starter. Please do not jump ahead if you don't know where to start or run the project, as you may confused yourself. :fire:
 
-### Prerequisites
+### Prerequisites if you want to customize them, if not proceed to Installation
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -114,16 +115,17 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Start building the SQL based on the information provided in the project
-4. Install a clean version of maven project
+3. Start building the MySQL based on the information provided in the project
+4. Open cmd, and `cd` to your project directory, I
+5. Install a clean version of maven project
    ```sh
    mvn clean build
    ```
-5. Run the server on port 3306 or whatever port you host your mySql
+6. Run the server on port 3306 or whatever port you host your mySql
    ```sh
    mvn spring-boot:run
    ```
-6. You should eventually turn to port 3306 on chrome to see what was hosted, and further perform the borrowing action. Remember this is not a rest API, is a monolithic version of the library.
+7. You should eventually turn to port 3306 on chrome to see what was hosted, and that's it. Remember this is not a rest API, is a monolithic version of the library.
 
 <!-- USAGE EXAMPLES -->
 
