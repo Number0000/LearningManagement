@@ -76,9 +76,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This is a demostration for me to know if I understand microservices, Spring, Maven, MySql, and some other dependency that I used here.:smile:
+This is a demostration for me to know if I understand monolithics services, Spring, Maven, MySql, and some other dependency that I used here.:smile:
 
-Of course, there are going to be similar project out there in the world, however, I just want to make sure I truely understand Java as a microservices.
+Of course, there are going to be similar project out there in the world, however, I just want to make sure I truely understand Java as a microservices. This is not a restful API attempt as I did them in a seperate repo with a different flavor. Feel free to check them out here.
+
+- [LMSApiGateway](https://github.com/Number0000/LMSApiGateway)
+  - This project is about using API, however this is the first vers of library management system that I had.
+- [EurekaWithRestGateway](https://github.com/Number0000/EurekaWithRestGateway)
+  - This project is using Eureka as a host for microservices for Java. And this is much closer to a real world application.
 
 I have use an extensive amount of resources that I can find online alongside with them, including stackOverflow and couple other website. Jus want to acknowledge them and their effort.
 
