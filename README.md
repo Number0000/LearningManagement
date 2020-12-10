@@ -155,7 +155,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/Number0000/LibraryManagement_1.0.1/blob/master/LICENSE.txt) for more information.
 
 <!-- CONTACT -->
 
@@ -174,7 +174,7 @@ Project Link: [https://github.com/Number0000/LibraryManagement_1.0.1](https://gi
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [Original Template for ReadMe](https://github.com/othneildrew/Best-README-Template)
-- many many other that I complete used and forgot over the past couple years. Thank you, geeks
+- many many others that I completely used and forgot over the past couple years. Thank you, geeks. Because of your pioneer contribution, the world is more open.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
