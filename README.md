@@ -28,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">LibraryManagement_1.0.1</h3>
 Number0000="center">
     An awesome README template to jumpstart your projects!
     <br />
@@ -134,7 +134,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/Number0000/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Number0000/LibraryManagement_1.0.1/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -181,16 +181,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Number0000/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Number0000/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Number0000/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Number0000/LibraryManagement_1.0.1.svg?style=for-the-badge
+[contributors-url]: https://github.com/Number0000/LibraryManagement_1.0.1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Number0000/LibraryManagement_1.0.1.svg?style=for-the-badge
 [forks-url]: https://github.com/Number0000/LibraryManagement_1.0.1/network/members
-[stars-shield]: https://img.shields.io/github/stars/Number0000/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Number0000/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Number0000/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Number0000/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/Number0000/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Number0000/Best-README-Template/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/Number0000/LibraryManagement_1.0.1.svg?style=for-the-badge
+[stars-url]: https://github.com/Number0000/LibraryManagement_1.0.1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Number0000/LibraryManagement_1.0.1.svg?style=for-the-badge
+[issues-url]: https://github.com/Number0000/LibraryManagement_1.0.1/issues
+[license-shield]: https://img.shields.io/github/license/Number0000/LibraryManagement_1.0.1.svg?style=for-the-badge
+[license-url]: https://github.com/Number0000/LibraryManagement_1.0.1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/harry-chang-bb8b94aa/
 [product-screenshot]: images/screenshot.png
