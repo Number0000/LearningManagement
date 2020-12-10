@@ -29,7 +29,7 @@
   </a>
 
   <h3 align="center">LibraryManagement_1.0.1</h3>
-Number0000="center">
+  <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/Number0000/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -94,33 +94,36 @@ This section should list any major frameworks that you built your project using.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how you may want to do to on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+### Preprerequisites
+
+Here is an example of simple Maven project build on a website as a starter. Please do not jump ahead as you may confused yourself. :fire:
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- run the [spring initilizer](https://start.spring.io/) and go ahead with downloading the project
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Start with MySql community ver [https://dev.mysql.com/downloads/](https://dev.mysql.com/downloads/)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. Start building the SQL based on the information provided in the project
+4. Install a clean version of maven project
    ```sh
-   npm install
+   mvn clean build
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+5. Run the server on port 3306 or whatever port you host your mySql
+   ```sh
+   mvn spring-boot:run
    ```
+6. You should eventually turn to port 3306 on chrome to see what was hosted, and further perform the borrowing action. Remember this is not a rest API, is a monolithic version of the library.
 
 <!-- USAGE EXAMPLES -->
 
@@ -158,9 +161,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - harryhaw94@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Number0000/LibraryManagement_1.0.1](https://github.com/Number0000/LibraryManagement_1.0.1)
 
 <!-- ACKNOWLEDGEMENTS -->
 
