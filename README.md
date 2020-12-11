@@ -120,11 +120,12 @@ This is an example of how to list things you need to use the software and how to
 <br>
   <p align="center">
     <a href="https://github.com/Number0000/Best-README-Template">
-      <img src="images/ER-Diagram.png" alt="Logo" width="200" height="200">
+      <img src="images/ER-Diagram.png" alt="Logo" width="400" height="400">
     </a>
   </p>
 <br>
-    Please bear in mind that the mysql is build on older mysql. It might not have work.
+Please bear in mind that the mysql is build on older mysql. It might not have work.
+
 3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
