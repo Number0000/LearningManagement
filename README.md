@@ -116,21 +116,30 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Start with MySql community ver [https://dev.mysql.com/downloads/](https://dev.mysql.com/downloads/)
-2. Clone the repo
+2. Build the following ER Diagram
+<br>
+  <p align="center">
+    <a href="https://github.com/Number0000/Best-README-Template">
+      <img src="images/ER-Diagram.png" alt="Logo" width="200" height="200">
+    </a>
+  </p>
+<br>
+    Please bear in mind that the mysql is build on older mysql. It might not have work.
+3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Start building the MySQL based on the information provided in the project
-4. Open cmd, and `cd` to your project directory, I
-5. Install a clean version of maven project
+4. Start building the MySQL based on the information provided in the project
+5. Open cmd, and `cd` to your project directory, I
+6. Install a clean version of maven project
    ```sh
    mvn clean build
    ```
-6. Run the server on port 3306 or whatever port you host your mySql
+7. Run the server on port 3306 or whatever port you host your mySql
    ```sh
    mvn spring-boot:run
    ```
-7. You should eventually turn to port 3306 on chrome to see what was hosted, and that's it. Remember this is not a rest API, is a monolithic version of the library.
+8. You should eventually turn to port 3306 on chrome to see what was hosted, and that's it. Remember this is not a rest API, is a monolithic version of the library.
 
 <!-- USAGE EXAMPLES -->
 
