@@ -124,7 +124,8 @@ This is an example of how to list things you need to use the software and how to
     </a>
   </p>
 <br>
-Please bear in mind that the mysql is build on older mysql. It might not have work.
+
+- Please bear in mind that the mysql is build on older mysql. It might not have work.
 
 3. Clone the repo
    ```sh
