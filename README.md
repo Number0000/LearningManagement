@@ -74,7 +74,13 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br>
+  <p align="center">
+    <a href="https://github.com/Number0000/Best-README-Template">
+      <img src="images/mvn-run.gif" alt="Logo" width="640" height="640">
+    </a>
+  </p>
+<br>
 
 This is a demostration for me to know if I understand monolithics services, Spring, Maven, MySql, and some other dependency that I used here.:smile:
 
@@ -120,7 +126,14 @@ This is an example of how to list things you need to use the software and how to
 <br>
   <p align="center">
     <a href="https://github.com/Number0000/Best-README-Template">
-      <img src="images/ER-Diagram.png" alt="Logo" width="400" height="400">
+      <img src="images/ER-Diagram.png" alt="Logo" width="540" height="540">
+    </a>
+  </p>
+<br>
+<br>
+  <p align="center">
+    <a href="https://github.com/Number0000/Best-README-Template">
+      <img src="images/Database-screenshot.png" alt="Logo" width="540" height="540">
     </a>
   </p>
 <br>
